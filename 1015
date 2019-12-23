@@ -1,6 +1,6 @@
  // cpp + 입출력만 c
  
- #include <stdio.h>
+#include <stdio.h>
 #include <vector>
 using namespace std;
 
