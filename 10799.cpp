@@ -12,7 +12,7 @@ int main() {
 			st.push(i);
 		}
 		if (ps[i] == ')') {
-			if (i - st.top() == 1) { // 이건 레이저
+			if (i - st.top() == 1) { 
 				st.pop();
 				count += st.size();
 			}
